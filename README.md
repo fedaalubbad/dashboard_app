@@ -14,6 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# dashboard_app
-# dashboard_app
-# dashboard_app
+
+
+![web with opened drwaer](assets/web.png)
+![web with closed drwaer](assets/web2.png)
+![mobile image](assets/mobile.png)
